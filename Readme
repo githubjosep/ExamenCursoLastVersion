@@ -1,0 +1,9 @@
+1 Leemos el fichero e informamos en un ArrayList el Objeto ModelTO
+2 Ordenamos el fichero por fecha
+3 Buscamos los Últimos Jueves de cada mes y se invierte 50 Euros menos un 2% de cominisón ($9 Euros a Invertir)
+4 Cada día siguiente del último jueves de mes se invierte: 49 / Apertura = Num Acciones y acumulamos el nº de Acciones
+5 eL 28/12/2017 Se venden las acciones a fecha de cierre.
+
+El Valor Final es: 33.432,52 Euros
+
+
